@@ -1,5 +1,0 @@
-ffmpeg-python==0.2.0
-pyannote.audio==2.1.1
-numpy==1.23.4
-opencv-python==4.7.0
-subprocess32==3.5.4
