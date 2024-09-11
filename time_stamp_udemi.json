@@ -1,0 +1,368 @@
+[
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 0.3,
+        "end_time": 1.56659375,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 1.56659375,
+        "end_time": 1.9715937500000003,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 1.9715937500000003,
+        "end_time": 2.14034375,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 2.14034375,
+        "end_time": 2.84909375,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 2.84909375,
+        "end_time": 3.7434687500000003,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 3.7434687500000003,
+        "end_time": 5.0259687500000005,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 5.0259687500000005,
+        "end_time": 6.66284375,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 6.66284375,
+        "end_time": 8.434718750000002,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 8.434718750000002,
+        "end_time": 11.269718750000003,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 11.269718750000003,
+        "end_time": 15.927218750000002,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 15.927218750000002,
+        "end_time": 19.89284375,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 19.89284375,
+        "end_time": 22.47471875,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 22.47471875,
+        "end_time": 24.887843750000002,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 24.887843750000002,
+        "end_time": 26.136593750000003,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 26.136593750000003,
+        "end_time": 27.03096875,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 27.03096875,
+        "end_time": 29.81534375,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 29.81534375,
+        "end_time": 32.78534375,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 32.78534375,
+        "end_time": 35.282843750000005,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 35.282843750000005,
+        "end_time": 38.657843750000005,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 38.657843750000005,
+        "end_time": 40.61534375,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 40.61534375,
+        "end_time": 41.35784375,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 41.35784375,
+        "end_time": 42.50534375,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 42.50534375,
+        "end_time": 43.26471875,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 43.26471875,
+        "end_time": 44.564093750000005,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 44.564093750000005,
+        "end_time": 46.16721875,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 46.16721875,
+        "end_time": 49.39034375,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 49.39034375,
+        "end_time": 50.30159375,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 50.30159375,
+        "end_time": 52.22534375,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 52.22534375,
+        "end_time": 52.81596875,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 52.81596875,
+        "end_time": 52.883468750000006,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 52.883468750000006,
+        "end_time": 54.385343750000004,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 54.385343750000004,
+        "end_time": 55.127843750000004,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 55.127843750000004,
+        "end_time": 58.35096875000001,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 58.35096875000001,
+        "end_time": 58.705343750000004,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 58.705343750000004,
+        "end_time": 70.41659375,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 70.41659375,
+        "end_time": 80.69346875000001,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 80.69346875000001,
+        "end_time": 90.73409375,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 90.73409375,
+        "end_time": 92.23596875000001,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 92.23596875000001,
+        "end_time": 98.36159375000001,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 98.36159375000001,
+        "end_time": 103.08659375,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 103.08659375,
+        "end_time": 106.24221875,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 106.24221875,
+        "end_time": 108.09846875000001,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 108.09846875000001,
+        "end_time": 108.13221875,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 108.13221875,
+        "end_time": 108.18284375,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 108.18284375,
+        "end_time": 110.54534375,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 110.54534375,
+        "end_time": 110.61284375000001,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 110.61284375000001,
+        "end_time": 110.66346875,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 110.66346875,
+        "end_time": 110.78159375000001,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 110.78159375000001,
+        "end_time": 115.89471875000001,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 115.89471875000001,
+        "end_time": 117.54846875000001,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 117.54846875000001,
+        "end_time": 117.93659375000001,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 117.93659375000001,
+        "end_time": 119.92784375000001,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 119.92784375000001,
+        "end_time": 121.21034375,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 121.21034375,
+        "end_time": 123.20159375,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 123.20159375,
+        "end_time": 124.75409375000001,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 124.75409375000001,
+        "end_time": 128.46659375000002,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 128.46659375000002,
+        "end_time": 131.04846875,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 131.04846875,
+        "end_time": 131.95971875,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 131.95971875,
+        "end_time": 138.35534375,
+        "video_path": "./videos/Full1_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 138.35534375,
+        "end_time": 139.97534375,
+        "video_path": "./videos/person22_standardized.MOV"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 139.97534375,
+        "end_time": 140.49846875,
+        "video_path": "./videos/Full1_standardized.MOV"
+    }
+]
